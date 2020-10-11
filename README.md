@@ -22,9 +22,9 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-![Alt Text](https://imgur.com/a/xHj6a04.gifv')
 
-<img src='https://imgur.com/a/xHj6a04.gifv' width='' alt='Video Walkthrough' />
+
+<img src='https://media.giphy.com/media/VqP6TDyPzgPJPsPHpL/giphy.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
