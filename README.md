@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-<img src='https://media.giphy.com/media/VqP6TDyPzgPJPsPHpL/giphy.gif' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/B0jITI75D63bLRO2Xz/giphy.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
